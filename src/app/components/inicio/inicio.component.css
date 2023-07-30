@@ -25,3 +25,11 @@
 .input[type=range]::-webkit-slider-thumb{
   background-color: aqua;
 }
+
+.sumaResta{
+  cursor:pointer;
+  background-color: aqua;
+  padding: 7px;
+  border-radius: 15px;
+  margin-left: 3px;
+}
