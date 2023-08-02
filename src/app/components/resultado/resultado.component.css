@@ -1,0 +1,55 @@
+.fondoItem{
+  background-color: #B2AA7C;
+  height: 430px;
+  border-radius: 20px;
+  color:white
+
+}
+
+.btn-color{
+  background-color: rgb(85, 89, 60) !important;
+  border-color: rgb(64, 66, 14);
+  border-radius: 25px;
+  width: 100%;
+  font-weight: 700;
+  color: white;
+}
+
+.resultado{
+  color:#1d7e3a;
+  font-size: 18px;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+
+.numero{
+  font-size: 80px;
+  font-weight: 700;
+  padding-top: 25px;
+  padding-bottom: 45px;
+}
+.interpretacion{
+  margin: 10px;
+  font-size: 18px;
+  text-align: center;
+
+
+}
+.contenedor{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100%;
+
+}
+
+#button-n{
+  background-color: rgb(85, 89, 60) !important;
+  border-color: rgb(64, 66, 14);
+  border-radius: 25px;
+  width: 100%;
+  font-weight: 700;
+  color: white;
+}
+
