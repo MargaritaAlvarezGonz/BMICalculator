@@ -15,10 +15,12 @@ body{
 }
 
 .btn-color{
-  background-color: aqua;
-  border-color: blue;
+  background-color: rgb(85, 89, 60);
+  border-color: rgb(64, 66, 14);
   border-radius: 25px;
   width: 100%;
+  font-weight: 700;
+  color: white;
 }
 .contenedor{
   display: flex;
